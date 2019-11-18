@@ -1,0 +1,4 @@
+show databases;
+show grants;
+select user();
+select * from mysql.user;
